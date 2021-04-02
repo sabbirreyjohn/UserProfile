@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">User Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="full_name">Full Name</string>
+    <string name="logout">Logout</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="not_member">Not a member yet?</string>
+    <string name="reg_now">Register Now!</string>
+    <string name="register">Register</string>
+</resources>
